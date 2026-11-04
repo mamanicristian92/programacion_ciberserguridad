@@ -33,3 +33,11 @@ En la consola de powershell:
     ```
     ./tp3.ps1
     ```
+
+### EXAMEN PRACTICO
+
+1. En la consola de PowerShell:
+
+    ```
+    ./examen.ps1
+    ```
